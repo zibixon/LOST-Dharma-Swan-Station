@@ -15,7 +15,7 @@
   - In options:
     - Press `P` to close.
     - Click `LEFT MOUSE BUTTON` on the display to change it.
-    - Press `RIGHT ARROW` or `D` to change display.
+    - Press `RIGHT ARROW` or `D` to change the display.
     - Press `LEFT ARROW` or `A` to change the display.
 - Press `ESCAPE` to exit.
 ---
